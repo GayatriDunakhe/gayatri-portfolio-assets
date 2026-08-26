@@ -1,0 +1,34 @@
+{
+  "logos": [
+    {
+      "title": "Logo 1",
+      "image": "https://raw.githubusercontent.com/gayatridunakhe/gayatri-portfolio-assets/main/graphic-design/logos/logo1.jpg",
+      "createdAt": "2026-08-25"
+    },
+    {
+      "title": "Logo 2",
+      "image": "https://raw.githubusercontent.com/gayatridunakhe/gayatri-portfolio-assets/main/graphic-design/logos/logo2.jpg",
+      "createdAt": "2026-08-24"
+    }
+  ],
+
+  "posters": [
+    {
+      "title": "Poster 1",
+      "image": "https://raw.githubusercontent.com/gayatridunakhe/gayatri-portfolio-assets/main/graphic-design/posters/poster1.jpg",
+      "createdAt": "2026-08-20"
+    }
+  ],
+
+  "digital-art": [
+    {
+      "title": "Art 1",
+      "image": "https://raw.githubusercontent.com/gayatridunakhe/gayatri-portfolio-assets/main/graphic-design/digital-art/art1.jpg",
+      "createdAt": "2026-08-18"
+    }
+  ],
+
+  "posts": [],
+  "illustrations": [],
+  "other": []
+}
