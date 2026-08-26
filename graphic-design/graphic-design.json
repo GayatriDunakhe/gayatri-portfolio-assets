@@ -1,33 +1,35 @@
 {
   "logos": [
     {
-      "title": "Logo 1",
-      "image": "https://raw.githubusercontent.com/gayatridunakhe/gayatri-portfolio-assets/main/graphic-design/logos/logo1.jpg",
-      "createdAt": "2026-08-25"
+      "title": "GD Heart Shape Logo",
+      "image": "https://raw.githubusercontent.com/GayatriDunakhe/gayatri-portfolio-assets/refs/heads/main/graphic-design/logos/GD%20Heart%20shape%20logo.png",
+      "createdAt": "2022-08-25"
     },
     {
-      "title": "Logo 2",
-      "image": "https://raw.githubusercontent.com/gayatridunakhe/gayatri-portfolio-assets/main/graphic-design/logos/logo2.jpg",
-      "createdAt": "2026-08-24"
+      "title": "LC Logo",
+      "image": "https://raw.githubusercontent.com/GayatriDunakhe/gayatri-portfolio-assets/refs/heads/main/graphic-design/logos/LC%20logo.png",
+      "createdAt": "2021-02-24"
     }
-  ],
-
-  "posters": [
     {
-      "title": "Poster 1",
-      "image": "https://raw.githubusercontent.com/gayatridunakhe/gayatri-portfolio-assets/main/graphic-design/posters/poster1.jpg",
-      "createdAt": "2026-08-20"
+      "title": "Letter L Logo",
+      "image": "https://raw.githubusercontent.com/GayatriDunakhe/gayatri-portfolio-assets/refs/heads/main/graphic-design/logos/Letterl%20L%20logo.png",
+      "createdAt": "2021-01-24"
     }
-  ],
-
-  "digital-art": [
     {
-      "title": "Art 1",
-      "image": "https://raw.githubusercontent.com/gayatridunakhe/gayatri-portfolio-assets/main/graphic-design/digital-art/art1.jpg",
-      "createdAt": "2026-08-18"
+      "title": "Printx Logo",
+      "image": "https://raw.githubusercontent.com/GayatriDunakhe/gayatri-portfolio-assets/refs/heads/main/graphic-design/logos/Printx%20logo.png",
+      "createdAt": "2022-01-08"
     }
+    {
+      "title": "The Skyligh Cafe Logo",
+      "image": "https://raw.githubusercontent.com/GayatriDunakhe/gayatri-portfolio-assets/refs/heads/main/graphic-design/logos/The%20skyligh%20cafe%20logo.png",
+      "createdAt": "2023-06-09"
+    }
+    
   ],
 
+  "posters": [],
+  "digital-art": [],
   "posts": [],
   "illustrations": [],
   "other": []
