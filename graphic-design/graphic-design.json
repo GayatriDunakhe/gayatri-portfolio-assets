@@ -25,10 +25,44 @@
       "image": "https://raw.githubusercontent.com/GayatriDunakhe/gayatri-portfolio-assets/main/graphic-design/logos/The%20skyligh%20cafe%20logo.png",
       "createdAt": "2023-06-09"
     }
-    
   ],
 
-  "posters": [],
+ "posters": [
+  {
+    "title": "Ganesh Festival Campaign",
+    "coverImage": "https://....poster1.jpg",
+    "createdAt": "2025-08-20",
+
+    "campaign": [
+      {
+        "title": "Day 1 Poster",
+        "image": "https://....day1.jpg"
+      },
+      {
+        "title": "Day 2 Poster",
+        "image": "https://....day2.jpg"
+      },
+      {
+        "title": "Day 3 Poster",
+        "image": "https://....day3.jpg"
+      }
+    ]
+  },
+
+  {
+    "title": "Women's Day Campaign",
+    "coverImage": "https://....women1.jpg",
+    "createdAt": "2025-08-15",
+
+    "campaign": [
+      {
+        "title": "Poster 1",
+        "image": "https://....poster1.jpg"
+      }
+    ]
+  }
+],
+  
   "digital-art": [],
   "posts": [],
   "illustrations": [],
