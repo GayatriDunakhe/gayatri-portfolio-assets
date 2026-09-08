@@ -29,9 +29,30 @@
 
  "posters": [
   {
-    "title": "Ganesh Festival Campaign",
-    "coverImage": "https://....poster1.jpg",
+    "client": "CGI",
+    "title": "Women's Day Campaign",
+    "slug": "cgi-womens-day",
+    "coverImage": "https://....women1.jpg",
     "createdAt": "2025-08-20",
+
+    "campaign": [
+      {
+        "title": "Poster 1",
+        "image": "https://....poster1.jpg"
+      },
+      {
+        "title": "Poster 2",
+        "image": "https://....poster2.jpg"
+      }
+    ]
+  },
+
+  {
+    "client": "College",
+    "title": "Ganesh Festival Campaign",
+    "slug": "college-festival",
+    "coverImage": "https://....ganesh-cover.jpg",
+    "createdAt": "2025-08-15",
 
     "campaign": [
       {
@@ -41,23 +62,6 @@
       {
         "title": "Day 2 Poster",
         "image": "https://....day2.jpg"
-      },
-      {
-        "title": "Day 3 Poster",
-        "image": "https://....day3.jpg"
-      }
-    ]
-  },
-
-  {
-    "title": "Women's Day Campaign",
-    "coverImage": "https://....women1.jpg",
-    "createdAt": "2025-08-15",
-
-    "campaign": [
-      {
-        "title": "Poster 1",
-        "image": "https://....poster1.jpg"
       }
     ]
   }
