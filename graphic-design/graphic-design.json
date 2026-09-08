@@ -32,17 +32,17 @@
     "client": "CGI",
     "title": "Women's Day Campaign",
     "slug": "cgi-womens-day",
-    "coverImage": "https://....women1.jpg",
+    "coverImage": "https://raw.githubusercontent.com/GayatriDunakhe/gayatri-portfolio-assets/main/graphic-design/logos/GD%20Heart%20shape%20logo.png",
     "createdAt": "2025-08-20",
 
     "campaign": [
       {
         "title": "Poster 1",
-        "image": "https://....poster1.jpg"
+        "image": "https://raw.githubusercontent.com/GayatriDunakhe/gayatri-portfolio-assets/main/graphic-design/logos/GD%20Heart%20shape%20logo.png",
       },
       {
         "title": "Poster 2",
-        "image": "https://....poster2.jpg"
+        "image": "https://raw.githubusercontent.com/GayatriDunakhe/gayatri-portfolio-assets/main/graphic-design/logos/GD%20Heart%20shape%20logo.png",
       }
     ]
   },
