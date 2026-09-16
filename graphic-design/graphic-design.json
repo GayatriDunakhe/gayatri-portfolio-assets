@@ -71,8 +71,64 @@
   }
 ],
   
-  "digital-art": [],
-  "posts": [],
-  "illustrations": [],
-  "other": []
+  "digital-art": [
+  {
+    "title": "Fantasy Character",
+    "image": "...",
+    "createdAt": "2025-08-20"
+  },
+
+  {
+    "title": "Cyberpunk Artwork",
+    "image": "...",
+    "createdAt": "2025-08-22"
+  }
+],
+  
+  "posts": [
+  {
+    "client": "CGI",
+
+    "title": "Mental Health Awareness",
+
+    "slug": "mental-health",
+
+    "coverImage": "...",
+
+    "campaign": [
+      {
+        "title": "Post 1",
+        "image": "..."
+      },
+      {
+        "title": "Post 2",
+        "image": "..."
+      }
+    ]
+  }
+],
+  
+  "illustrations": [
+  {
+    "title": "Children Book Illustration",
+    "image": "...",
+    "createdAt": "..."
+  }
+],
+
+  "other": [
+  {
+    "title": "Brochure Design",
+    "image": "...",
+    "type": "Brochure",
+    "createdAt": "..."
+  },
+
+  {
+    "title": "Certificate Design",
+    "image": "...",
+    "type": "Certificate",
+    "createdAt": "..."
+  }
+]
 }
