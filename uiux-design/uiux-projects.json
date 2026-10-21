@@ -2,6 +2,7 @@
   "projects": [
     {
       "title": "Food Delivery App",
+      "slug": "food-delivery-app",
       "description": "A mobile application designed to simplify food ordering and delivery experience.",
 
       "coverImage": "https://raw.githubusercontent.com/.../foodapp-cover.png",
@@ -15,6 +16,7 @@
 
     {
       "title": "Portfolio Website",
+      "slug": "portfolio-webiste",
       "description": "Modern responsive portfolio website focused on visual storytelling.",
 
       "coverImage": "https://raw.githubusercontent.com/.../portfolio-cover.png",
