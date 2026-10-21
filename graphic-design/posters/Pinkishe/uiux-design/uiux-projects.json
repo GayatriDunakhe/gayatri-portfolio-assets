@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "title": "Food Delivery App",
+      "description": "A mobile application designed to simplify food ordering and delivery experience.",
+
+      "coverImage": "https://raw.githubusercontent.com/.../foodapp-cover.png",
+
+      "figmaLink": "https://figma.com/xxxxx",
+
+      "liveLink": "https://foodapp.netlify.app",
+
+      "createdAt": "2026-01-10"
+    },
+
+    {
+      "title": "Portfolio Website",
+      "description": "Modern responsive portfolio website focused on visual storytelling.",
+
+      "coverImage": "https://raw.githubusercontent.com/.../portfolio-cover.png",
+
+      "figmaLink": "https://figma.com/xxxxx",
+
+      "liveLink": "https://portfolio.com",
+
+      "createdAt": "2026-03-15"
+    }
+  ]
+}
