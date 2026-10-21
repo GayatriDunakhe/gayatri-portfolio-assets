@@ -1,0 +1,53 @@
+{
+  "title": "Food Delivery App",
+  "slug": "food-delivery-app",
+
+  "subtitle": "Food Ordering Mobile Experience",
+
+  "duration": "Jan 2026 - Mar 2026",
+
+  "role": "UX/UI Designer",
+
+  "team": "Individual",
+
+  "tools": [
+    "Figma",
+    "FigJam"
+  ],
+
+  "heroImage": "https://raw.githubusercontent.com/.../hero.png",
+
+  "figmaLink": "https://figma.com/...",
+
+  "liveLink": "https://...",
+
+  "problem": "Users struggled with complicated checkout flows.",
+
+  "goals": [
+    "Improve navigation",
+    "Reduce checkout steps",
+    "Improve accessibility"
+  ],
+
+  "researchImage": "https://raw.githubusercontent.com/.../research.png",
+
+  "personaImage": "https://raw.githubusercontent.com/.../persona.png",
+
+  "userFlowImage": "https://raw.githubusercontent.com/.../user-flow.png",
+
+  "wireframes": [
+    "https://raw.githubusercontent.com/.../wireframe1.png",
+    "https://raw.githubusercontent.com/.../wireframe2.png"
+  ],
+
+  "designSystemImage":
+    "https://raw.githubusercontent.com/.../design-system.png",
+
+  "finalScreens": [
+    "https://raw.githubusercontent.com/.../final-screen1.png",
+    "https://raw.githubusercontent.com/.../final-screen2.png"
+  ],
+
+  "learnings":
+    "Learned how simplifying navigation significantly improves usability."
+}
