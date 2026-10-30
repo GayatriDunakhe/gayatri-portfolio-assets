@@ -1,13 +1,13 @@
 {
   "projects": [
     {
-      "title": "Log Analyzer",
-      "slug": "log-analyzer",
-      "description": "Python utility to analyze server logs.",
+      "title": "E-Commerce Load Testing",
+      "slug": "ecommerce-load-testing",
+      "tool": "JMeter",
+      "summary": "Validated application performance under 5000 concurrent users.",
       "coverImage": "...",
-      "githubLink": "...",
-      "demoLink": "...",
-      "createdAt": "2025-09-01"
+      "reportLink": "...",
+      "createdAt": "2025-08-01"
     }
   ]
 }
