@@ -1,0 +1,24 @@
+Details Page
+Hero Image
+
+Project Overview
+
+Objective
+
+Test Scope
+
+Environment
+
+Workload Model
+
+Test Scenarios
+
+Metrics
+
+Response Time Graphs
+
+Bottlenecks Found
+
+Recommendations
+
+Results
