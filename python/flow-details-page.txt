@@ -1,0 +1,22 @@
+Python Project Details Page
+Project Overview
+
+Objective
+
+Problem Statement
+
+Architecture
+
+Project Flow
+
+Tech Stack
+
+Code Snippets
+
+Screenshots
+
+Demo
+
+GitHub Repository
+
+Learnings
