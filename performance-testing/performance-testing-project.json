@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "title": "Log Analyzer",
+      "slug": "log-analyzer",
+      "description": "Python utility to analyze server logs.",
+      "coverImage": "...",
+      "githubLink": "...",
+      "demoLink": "...",
+      "createdAt": "2025-09-01"
+    }
+  ]
+}
